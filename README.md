@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 I'm a backend developer focused on building reliable backend systems with **Go**.  
-Interested in developing high-quality, stable products and continuously improving technical skills.
+Interested in developing high-quality, stable products and continuously improving technical skills.  
 I love turning complex requirements into clean, scalable APIs and event‑driven architectures.  
 
 ---
